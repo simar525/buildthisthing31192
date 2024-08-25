@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "https://docs.google.com/spreadsheets/d/1xyIKKbBEKZR9he73NmvcggMPnELUOJxk78iolKsJQFA/edit?gid=0#gid=0/$1"
+ }
+  ]
+}
